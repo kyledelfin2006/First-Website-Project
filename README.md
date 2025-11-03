@@ -1,1 +1,1 @@
-used html,css, and javascript to create my first website project about a e-commerce site :)
+Created a static e-commerce web interface using HTML, CSS, and JavaScript to demonstrate core web development concepts.
